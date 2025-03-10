@@ -1,0 +1,52 @@
+SplineFontDB: 3.2
+FontName: DotsnLines
+FullName: Dots n Lines
+FamilyName: DotsnLines
+Weight: Regular
+Copyright: Copyright (c) 2025, Farran De Tao / Phlowyd Designs
+UComments: "2025-3-10: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+MultiLayer: 1
+XUID: [1021 852 -1484542570 26393]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1741601839
+ModificationTime: 1741603806
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -96
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 60 10 6
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 0
+EndChars
+EndSplineFont
